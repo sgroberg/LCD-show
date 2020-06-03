@@ -1,6 +1,3 @@
-### Install drivers in the Ubuntu system
-https://github.com/lcdwiki/LCD-show-ubuntu
-
 # How to install the LCD driver of Raspberry Pi
   
 1.) Step2, Clone my repo onto your pi<br>
